@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-event {
+  margin-right: 15px;
+}
+.event-image {
+  width: 350px;
+}
+.event-name {
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+.event-location {
+  font-size: 15px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.btn {
+  border: 0px none;
+  background-color: transparent;
+}

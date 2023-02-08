@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.events-page {
+  display: flex;
+}
+
+* {
+  color: white;
+  font-family: 'Roboto';
+}
+.events-list-container {
+  background-color: #3a4b63;
+  padding: 10px;
+  width: 60%;
+}
+
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

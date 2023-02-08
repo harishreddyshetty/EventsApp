@@ -1,0 +1,80 @@
+/* Write your CSS here */
+.activeRegPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.yet-to-register-img {
+  width: 350px;
+}
+.description {
+  color: #64748b;
+}
+
+.button {
+  background-color: #0967d2;
+  color: white;
+  border-radius: 8px;
+  height: 35px;
+  width: 250px;
+  border: 0px none;
+}
+
+.initial-heading {
+  color: #64748b;
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-top: 50px;
+  width: 400px;
+  text-align: center;
+}
+
+.registeredPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+  min-height: 100vh;
+}
+.registered-img {
+  width: 100px;
+}
+
+.registered-description {
+  color: #64748b;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.closed-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  padding: 25px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.closed-image {
+  width: 350px;
+}
+.heading {
+  color: #323f4b;
+  font-size: 22px;
+}
+
+.closed-description {
+  color: #3a4b63;
+  font-weight: 500;
+  width: 200px;
+  text-align: center;
+}
